@@ -5,6 +5,10 @@
 Primero importamos la librería scanner
 
         import java.util.Scanner;
+        
+Luego, creamos el objeto de scanner:
+
+        Scanner scanner = new Scanner(System.in);
 
 ## Creación de arreglo (Primera Forma)
     int[] notas = {10,11,12,13,14};
