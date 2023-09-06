@@ -22,4 +22,4 @@ Es basicamente un arreglo donde todos sus elementos son OBJETOS.
 
 ## LIBRERIA ARRAYS
 Se coloca encima de todo el código
-    import java.util.ArrayList;
+        import java.util.ArrayList;
