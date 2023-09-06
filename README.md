@@ -73,6 +73,19 @@ En String va el tipo de variable del HashSet (o sea de los elementos) y luego le
 
 Nos va a servir el HashSet para poder comparar:
 
+        if (listaNumeroSeries.contains(numeroSerie)){ //AQUI PODEMOS comparar lo que contiene con los demás elementos
+            System.out.println("Error, ya existe el número de serie");
+        }
+        else{
+            listaNumeroSeries.add(numeroSerie); //AÑADIMOS al hashset el numero de serie
+            equipo.setMarca(marca);
+            equipo.setTipo(tipo);
+            equipo.setCantidadDePuertos(cantidadDePuertos);
+            equipo.setCosto(costoRouter);
+            equipo.setNumeroDeSerie(numeroSerie);
+            listaEquipos.add(equipo); //Se añade a la lista de equipos que creamos
+        }
+
 ![listapoderes](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/f4bb3fe4-0f46-4e14-8e61-0edd876a98b8)
 
 
