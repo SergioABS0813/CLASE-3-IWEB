@@ -28,3 +28,6 @@ Es basicamente un arreglo donde todos sus elementos son OBJETOS.
 Se coloca encima de todo el código
 
         import java.util.ArrayList;
+
+## ARRAYLIST
+Es un arreglo dinámico 
