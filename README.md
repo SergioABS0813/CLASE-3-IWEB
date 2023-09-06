@@ -88,6 +88,21 @@ Nos va a servir el HashSet para poder comparar:
 
 ![listapoderes](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/f4bb3fe4-0f46-4e14-8e61-0edd876a98b8)
 
+## For each Loop
+
+Se coloca primero for (TIPO DE DATO DE LOS ELEMENTOS "cualquier cosa": LISTAQUEQUIERESOBSERVAR)
+
+        for (Equipo equipo: listaEquipos){
+
+        }
+
+
+![aa](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/9eccba62-1f6c-4db7-98bb-25435e28ca1d)
+
+
+![bb](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/6d7bf7bc-e949-4c2b-adc6-8203f2dc5745)
+
+
 
 
 
