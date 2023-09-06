@@ -48,6 +48,15 @@ Es un arreglo dinámico
 Creamos un arrayList para contener objetos de clase Persona
 ![aaa](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/976aa7f6-9e5e-4d5c-b6a7-23c0be50272d)
 
+Se puede mandar a funciones pero solo mandariamos la lista a la que queremos hacer un metodo (como python) MAIN
+
+![aa](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/3c4aa10e-e30a-4a32-8014-d9b4bfe5ebf0)
+
+Si necesitamos de eso, recordar que en el metodo tenemos que tener como variable la lista con su tipo de dato:
+
+![bbb](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/e8a67304-2521-425f-aa0e-565a5a3e1772)
+
+
 ## HashSet
 
 Es un arreglo dinámico que sirve para buscar lo que contiene LA LISTA GLOBAL (no profundiza en cada objeto que hay dentro de esa lista)
