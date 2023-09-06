@@ -31,3 +31,6 @@ Se coloca encima de todo el código
 
 ## ARRAYLIST
 Es un arreglo dinámico 
+
+Creamos un arrayList para contener objetos de clase Persona
+![aaa](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/976aa7f6-9e5e-4d5c-b6a7-23c0be50272d)
