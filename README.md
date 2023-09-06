@@ -53,9 +53,13 @@ Creamos un arrayList para contener objetos de clase Persona
 Es un arreglo dinámico que sirve para buscar lo que contiene LA LISTA GLOBAL (no profundiza en cada objeto que hay dentro de esa lista)
 
 Primero importamos la libreria que nos permite crear HashSet (arriba de todo):
+
                 import java.util.HashSet;
+                
 Creamos el HashSet (o sea creamos una lista): 
+
                 HashSet<String> listaNumeroSeries = new HashSet<>();
+                
 En String va el tipo de variable del HashSet (o sea de los elementos) y luego le colocas el nombre de la lista.
 
 
