@@ -1,5 +1,11 @@
 # CLASE-3-IWEB
 
+## USO DE SCANNER
+
+Primero importamos la librería scanner
+
+        import java.util.Scanner;
+
 ## Creación de arreglo (Primera Forma)
     int[] notas = {10,11,12,13,14};
     
