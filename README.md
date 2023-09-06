@@ -19,3 +19,7 @@ Donde notas es el nombre del arreglo
 Es basicamente un arreglo donde todos sus elementos son OBJETOS.
 
 ![aa](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/56f91199-e022-4d32-9660-9648346f1249)
+
+## LIBRERIA ARRAYS
+Se coloca encima de todo el código
+    import java.util.ArrayList;
