@@ -8,3 +8,8 @@
 
 ## COMO CONOCER EL TAMAÑO DE UN ARREGLO?
 ![bb](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/fde56f2f-57fc-49b8-a04f-fe55756b3024)
+
+## Arreglo de objetos
+Es basicamente un arreglo donde todos sus elementos son OBJETOS.
+
+![aa](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/56f91199-e022-4d32-9660-9648346f1249)
