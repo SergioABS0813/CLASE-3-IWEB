@@ -9,6 +9,9 @@ Primero importamos la librería scanner
 Luego, creamos el objeto de scanner:
 
         Scanner scanner = new Scanner(System.in);
+Luego empleamos el scanner para el registro de datos:
+
+        String opcionSeleccionada = scanner.nextLine();
 
 ## Creación de arreglo (Primera Forma)
     int[] notas = {10,11,12,13,14};
