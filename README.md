@@ -71,6 +71,10 @@ Creamos el HashSet (o sea creamos una lista):
                 
 En String va el tipo de variable del HashSet (o sea de los elementos) y luego le colocas el nombre de la lista.
 
+Nos va a servir el HashSet para poder comparar:
+
+![listapoderes](https://github.com/SergioABS0813/CLASE-3-IWEB/assets/134556600/f4bb3fe4-0f46-4e14-8e61-0edd876a98b8)
+
 
 
 
