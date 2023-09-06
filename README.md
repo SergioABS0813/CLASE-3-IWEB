@@ -1,5 +1,12 @@
 # CLASE-3-IWEB
 
+## Para el Main
+        public class Main {
+            public static void main(String[] args) {
+                
+            }
+        }
+
 ## USO DE SCANNER
 
 Primero importamos la librería scanner
